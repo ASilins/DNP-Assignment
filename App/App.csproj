@@ -4,7 +4,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
   <ItemGroup>
-    <Compile Include="test.cs.fs" />
+    <ProjectReference Include="../Domain/Domain.csproj" />
   </ItemGroup>
+
 </Project>

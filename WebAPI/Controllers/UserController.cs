@@ -6,7 +6,7 @@ using Domain.DTOs;
 namespace WebApi.Controllers;
 
 [ApiController]
-[Route("[controller")]
+[Route("[controller]")]
 public class UserController : ControllerBase
 {
 
@@ -18,7 +18,7 @@ public class UserController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<ActionResult<User>> CreateAsync(User user)
+    public async Task<ActionResult<User>> CreateAsync(UserDto user)
     {
         try
         {
@@ -33,7 +33,7 @@ public class UserController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<User>> Login([FromBody] UserLoginDto dto)
+    public async Task<ActionResult<User>> Login([FromBody] UserDto dto)
     {
         try
         {

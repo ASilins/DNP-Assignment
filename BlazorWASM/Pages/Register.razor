@@ -1,0 +1,49 @@
+@page "/register"
+@inject IUserService userService;
+
+<div>
+    <h3>Register</h3>
+    <div class="form-group field">
+        <label>User Name:</label>
+        <input type="text" @bind="username" @bind:event="oninput" />
+
+        <label>Password:</label>
+        <input type="password" @bind="password" @bind:event="oninput">
+        @if (!string.IsNullOrEmpty(resultmsg))
+        {
+            <label style="color: @colour">@resultmsg</label>
+        }
+    </div>
+    <div class="button-row">
+        <button @onclick="Register" disabled="@(string.IsNullOrEmpty(username) && string.IsNullOrEmpty(password))"
+            class="acceptbtn">Register</button>
+    </div>
+</div>
+
+
+@code {
+    private string username = "";
+    private string password = "";
+    private string resultmsg = "";
+    private string colour = "";
+
+    private async Task Register()
+    {
+        resultmsg = "";
+
+        try
+        {
+            await userService.Create(new UserDto(username, password));
+            username = "";
+            password = "";
+            resultmsg = "User registered";
+            colour = "green";
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            resultmsg = e.Message;
+            colour = "red";
+        }
+    }
+}

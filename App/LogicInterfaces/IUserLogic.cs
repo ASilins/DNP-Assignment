@@ -5,6 +5,6 @@ namespace App.LogicInterfaces;
 
 public interface IUserLogic
 {
-    Task<User> CreateAsync(User user);
-    Task<User> Login(UserLoginDto user);
+    Task<User> CreateAsync(UserDto user);
+    Task<User> Login(UserDto user);
 }

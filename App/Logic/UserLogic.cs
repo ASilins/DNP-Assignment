@@ -15,13 +15,20 @@ public class UserLogic : IUserLogic
         this.userDao = userDao;
     }
 
-    public async Task<User> CreateAsync(User user)
+    public async Task<User> CreateAsync(UserDto user)
     {
         User? existing = await userDao.GetByUsernameAsync(user.UserName);
         if (existing != null)
             throw new Exception("Username already taken!");
 
-        User created = await userDao.CreateAsync(user);
+
+        User created = await userDao.CreateAsync(
+            new User
+            {
+                UserName = user.UserName,
+                Password = user.Password
+            }
+        );
 
         return created;
     }
@@ -36,7 +43,7 @@ public class UserLogic : IUserLogic
         return existing;
     }
 
-    public async Task<User> Login(UserLoginDto user)
+    public async Task<User> Login(UserDto user)
     {
         User? existing = await userDao.GetByUsernameAsync(user.UserName);
 

@@ -5,5 +5,24 @@
       "Password": "test"
     }
   ],
-  "Posts": []
+  "Posts": [
+    {
+      "Id": 1,
+      "Owner": {
+        "UserName": "test",
+        "Password": "test"
+      },
+      "Title": "Test",
+      "Body": "test"
+    },
+    {
+      "Id": 2,
+      "Owner": {
+        "UserName": "test",
+        "Password": "test"
+      },
+      "Title": "NewPost",
+      "Body": "This is a new post"
+    }
+  ]
 }

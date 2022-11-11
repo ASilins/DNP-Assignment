@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
+      "projectUniqueName": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
+      "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
       "packagesPath": "C:\\Users\\Silin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\obj\\",
+      "outputPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silin\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,10 @@
 using HttpClients.ClientInterfaces;
 using Domain.Models;
 using Domain.DTOs;
+using System.Net.Http.Json;
+using System.Text.Json;
 
-namespace HttpClients.Implementations;
+namespace HttpClients.Impl;
 
 public class UserHttpClient : IUserService
 {
@@ -27,6 +29,23 @@ public class UserHttpClient : IUserService
         {
             PropertyNameCaseInsensitive = true
         })!;
+        return user;
+    }
+
+    public async Task<User> Login(UserDto dto)
+    {
+        HttpResponseMessage respone = await client.PostAsJsonAsync("/login", dto);
+        string result = await respone.Content.ReadAsStringAsync();
+        if (!respone.IsSuccessStatusCode)
+        {
+            throw new Exception(result);
+        }
+
+        User user = JsonSerializer.Deserialize<User>(result, new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true
+        })!;
+
         return user;
     }
 }

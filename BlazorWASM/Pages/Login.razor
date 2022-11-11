@@ -1,0 +1,54 @@
+@page "/login"
+@using Domain.DTOs;
+@using HttpClients.ClientInterfaces;
+@inject IUserService userService;
+@inject ILocalStorageService localStorage;
+@inject NavigationManager navManager;
+@inject AuthenticationStateProvider authState;
+
+<div>
+    <h3>Login</h3>
+    <div class="form-group field">
+        <label>User Name:</label>
+        <input type="text" @bind="username" @bind:event="oninput" />
+
+        <label>Password:</label>
+        <input type="password" @bind="password" @bind:event="oninput">
+        @if (!string.IsNullOrEmpty(resultmsg))
+        {
+            <label style="color: @colour">@resultmsg</label>
+        }
+    </div>
+    <div class="button-row">
+        <button @onclick="LoginUser" disabled="@(string.IsNullOrEmpty(username) && string.IsNullOrEmpty(password))"
+            class="acceptbtn">Login</button>
+    </div>
+</div>
+
+@code {
+    private string username = "";
+    private string password = "";
+    private string resultmsg = "";
+    private string colour = "";
+
+    private async Task LoginUser()
+    {
+        resultmsg = "";
+
+        try
+        {
+            await userService.Login(new UserDto(username, password));
+            await localStorage.SetItemAsync("user", username);
+            await authState.GetAuthenticationStateAsync();
+            username = "";
+            password = "";
+            navManager.NavigateTo("/");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            resultmsg = e.Message;
+            colour = "red";
+        }
+    }
+}

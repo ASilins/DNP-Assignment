@@ -1,4 +1,6 @@
 @page "/register"
+@using Domain.DTOs;
+@using HttpClients.ClientInterfaces;
 @inject IUserService userService;
 
 <div>
@@ -15,7 +17,7 @@
         }
     </div>
     <div class="button-row">
-        <button @onclick="Register" disabled="@(string.IsNullOrEmpty(username) && string.IsNullOrEmpty(password))"
+        <button @onclick="RegisterUser" disabled="@(string.IsNullOrEmpty(username) && string.IsNullOrEmpty(password))"
             class="acceptbtn">Register</button>
     </div>
 </div>
@@ -27,7 +29,7 @@
     private string resultmsg = "";
     private string colour = "";
 
-    private async Task Register()
+    private async Task RegisterUser()
     {
         resultmsg = "";
 

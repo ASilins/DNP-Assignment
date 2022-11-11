@@ -1,5 +1,12 @@
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.csproj.AssemblyReference.cache
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.AssemblyInfoInputs.cache
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.AssemblyInfo.cs
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.csproj.CoreCompileInputs.cache
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\BlazorWASM.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\BlazorWASM.pdb
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Domain.dll
@@ -14,6 +21,7 @@ C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
@@ -216,6 +224,7 @@ C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
@@ -330,6 +339,7 @@ C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
@@ -408,8 +418,10 @@ C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\BlazorWASM.staticwebassets.runtime.json
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\BlazorWASM.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\BlazorWASM.pdb
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Blazored.LocalStorage.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
@@ -608,14 +620,10 @@ C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\HttpClients.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\HttpClients.pdb
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Domain.pdb
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.csproj.AssemblyReference.cache
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.AssemblyInfoInputs.cache
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.AssemblyInfo.cs
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.csproj.CoreCompileInputs.cache
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\BlazorWASM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\nvXdYUuf.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\baMRa75O.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\q46khIJZ.gz
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\24oeEqql.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\hts+OXjU.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\tNtmOAcm.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\xlB4kuD2.gz

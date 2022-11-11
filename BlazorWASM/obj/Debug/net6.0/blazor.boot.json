@@ -7,8 +7,10 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.LocalStorage.dll": "sha256-Jq\/dS58mO5wtL2d0x\/FeAdDZ1bUTpTzPODJpBZUre\/4=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-UrVyaila4UaM9NG7wgfD9o+ih1r3xt3rq4W7Z+SCE3w=",
       "Microsoft.AspNetCore.Components.dll": "sha256-8yq2GCAfNZmhru8HZW\/xr9jDHwAS+MD4B1GGQFzi2Pg=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-I5BEosbTOX5zg7agqWZo14z3aViOJYbMCWeRLInDYiQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-mCmX0kVk855jFuyFyPzo67\/RUGcqcdN9PAEJFW+q4nk=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-YBkayjUkGHqPFwRfHSnDaZ62t4oeESWcId4vO\/nW7O4=",
@@ -196,17 +198,17 @@
       "mscorlib.dll": "sha256-TYLzIm125RbnX9+RAPqJnwZhd6CnQpJcrjiMpJfZ720=",
       "netstandard.dll": "sha256-HhuK9zDkd1N7hODAEiNJ11VF8T54IgrM6hZfLHmHdqM=",
       "System.Private.CoreLib.dll": "sha256-dXaTqyg1PnXPiSwywpic1PVrd7P8Vb5tN0i0\/urdt3E=",
-      "Domain.dll": "sha256-ihXM0jqCnUgfki82L+xbOjeEaEOuFuoo1bG1Y7gdOlw=",
-      "HttpClients.dll": "sha256-iIkWfr6GTegFe6jGyhkHOMjXwSjQxmZyt79WH9QLh7Y=",
-      "BlazorWASM.dll": "sha256-VAv+nXYUS6g0ZvYus\/O1pMiCQyFFFrJmTbWfo4yESPw="
+      "Domain.dll": "sha256-2yfsiE1FqZLkJVJYHzfQEhEQtYLpi8y4j125q22kzJs=",
+      "HttpClients.dll": "sha256-DJoAcW6aXjFFc7WRDWG6mebR1\/DeVk\/OGDMlOFMBLxA=",
+      "BlazorWASM.dll": "sha256-04AsaitN7S7Fd2S2lyjn1CxSRhIFtjHV7XLyXyh7ulY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "HttpClients.pdb": "sha256-FF8ZXaRZp8bjiKBMfnGCscHGzBGaG32yCbNittamMDg=",
-      "Domain.pdb": "sha256-9G2XEFzrklW4FmmKecp0ihrbLyx4vkQyaT8KoMOvM04=",
-      "BlazorWASM.pdb": "sha256-1\/78bySFBDZtU1jZeRj\/lf85JIc8vMHLW0mAFdcO7ig="
+      "HttpClients.pdb": "sha256-6tDwfDOcNmaR0m6F8EXWYJs5v+83A3c\/TGfQEwv0EHk=",
+      "Domain.pdb": "sha256-X3mZm\/GgQbjHZfugmJ8xj+\/rMsLSTfO9fS\/MGoP\/EGg=",
+      "BlazorWASM.pdb": "sha256-WBXgK\/YsepdOrcjbI+rupjHSCRT05Vts728\/u9xxRHs="
     },
     "runtime": {
       "dotnet.6.0.8.pe4u9lnayb.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",

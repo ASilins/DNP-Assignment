@@ -1,0 +1,39 @@
+@page "/createpost"
+@using Domain.DTOs;
+@using HttpClients.ClientInterfaces;
+@inject IPostService postService;
+@inject ILocalStorageService localStorage;
+@inject NavigationManager navigationManager;
+
+<div>
+    <div class="form-group field">
+        <label>Title:</label>
+        <input type="text" @bind="title" @bind:event="oninput" />
+
+        <label>Body:</label>
+        <input type="text" @bind="body" @bind:event="oninput">>
+    </div>
+    <div class="button-row">
+        <button @onclick="CreateNewPost" disabled="@(string.IsNullOrEmpty(title) && string.IsNullOrEmpty(body))"
+            class="acceptbtn">Create Post</button>
+    </div>
+</div>
+
+@code {
+    private string title = "";
+    private string body = "";
+
+    private async void CreateNewPost()
+    {
+        try
+        {
+            string userName = await localStorage.GetItemAsync<string>("user");
+            await postService.CreateAsync(new PostCreationDto(userName, title, body));
+            navigationManager.NavigateTo("");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+        }
+    }
+}

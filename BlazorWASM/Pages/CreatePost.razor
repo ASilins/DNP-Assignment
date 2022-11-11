@@ -5,6 +5,12 @@
 @inject ILocalStorageService localStorage;
 @inject NavigationManager navigationManager;
 
+<AuthorizeView>
+    <NotAuthorized>
+        <RedirectToLogin />
+    </NotAuthorized>
+</AuthorizeView>
+
 <div>
     <div class="form-group field">
         <label>Title:</label>
@@ -20,6 +26,8 @@
 </div>
 
 @code {
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationStateTask { get; set; }
     private string title = "";
     private string body = "";
 

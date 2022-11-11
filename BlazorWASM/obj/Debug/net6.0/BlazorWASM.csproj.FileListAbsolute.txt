@@ -843,5 +843,5 @@ C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\H+rJz+LC.gz
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\tWFecqXR.gz
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\o+OdOh4q.gz
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\HHylBa6P.gz
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\b1qvkNWZ.gz
+C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\BlazorWASM\obj\Debug\net6.0\build-gz\qK68RH7m.gz

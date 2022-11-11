@@ -223,105 +223,6 @@
         }
       },
       {
-        "HashCode": -1638209110,
-        "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.Login",
-        "AssemblyName": "BlazorWASM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.Login"
-        }
-      },
-      {
-        "HashCode": -465072992,
-        "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.Login",
-        "AssemblyName": "BlazorWASM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWASM.Pages.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 125196992,
-        "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.Logout",
-        "AssemblyName": "BlazorWASM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Logout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.Logout"
-        }
-      },
-      {
-        "HashCode": 1110746450,
-        "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.Logout",
-        "AssemblyName": "BlazorWASM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWASM.Pages.Logout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.Logout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -538603042,
-        "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.CreatePost",
-        "AssemblyName": "BlazorWASM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CreatePost"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.CreatePost"
-        }
-      },
-      {
-        "HashCode": 1580302178,
-        "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.CreatePost",
-        "AssemblyName": "BlazorWASM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWASM.Pages.CreatePost"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.CreatePost",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1049987462,
         "Kind": "Components.Component",
         "Name": "BlazorWASM.Pages.Register",
@@ -421,35 +322,134 @@
         }
       },
       {
-        "HashCode": 980596027,
+        "HashCode": -1638209110,
         "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.ViewPosts",
+        "Name": "BlazorWASM.Pages.Login",
         "AssemblyName": "BlazorWASM",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ViewPosts"
+            "TagName": "Login"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.ViewPosts"
+          "Common.TypeName": "BlazorWASM.Pages.Login"
         }
       },
       {
-        "HashCode": 134449348,
+        "HashCode": -465072992,
         "Kind": "Components.Component",
-        "Name": "BlazorWASM.Pages.ViewPosts",
+        "Name": "BlazorWASM.Pages.Login",
         "AssemblyName": "BlazorWASM",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWASM.Pages.ViewPosts"
+            "TagName": "BlazorWASM.Pages.Login"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.Pages.ViewPosts",
+          "Common.TypeName": "BlazorWASM.Pages.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 125196992,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.Pages.Logout",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Logout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.Pages.Logout"
+        }
+      },
+      {
+        "HashCode": 1110746450,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.Pages.Logout",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWASM.Pages.Logout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.Pages.Logout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1875334963,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.Pages.RedirectToLogin",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RedirectToLogin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.Pages.RedirectToLogin"
+        }
+      },
+      {
+        "HashCode": -1169243547,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.Pages.RedirectToLogin",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWASM.Pages.RedirectToLogin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.Pages.RedirectToLogin",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -538603042,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.Pages.CreatePost",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CreatePost"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.Pages.CreatePost"
+        }
+      },
+      {
+        "HashCode": 1580302178,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.Pages.CreatePost",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWASM.Pages.CreatePost"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.Pages.CreatePost",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14590,13 +14590,13 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\Pages\\RedirectToLogin.razor",
+      "TargetPath": "Pages\\RedirectToLogin.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\Pages\\ViewPosts.razor",
-      "TargetPath": "Pages\\ViewPosts.razor",
+      "FilePath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {

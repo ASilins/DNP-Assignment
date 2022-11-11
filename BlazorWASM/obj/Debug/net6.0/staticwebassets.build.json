@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KkSpw0W9HfjzTicCl3+kF3eEoebTeRuzgEld/At3wm4=",
+  "Hash": "36ykk1wGGEyg8HgO4XI8N9a8tXXHYk9UL/mJfuyFAvE=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\bin\\Debug\\net6.0\\Domain.dll"
+      "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\bin\\Debug\\net6.0\\Domain.dll"
     },
     {
       "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb",
@@ -133,7 +133,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\bin\\Debug\\net6.0\\Domain.pdb"
+      "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\bin\\Debug\\net6.0\\Domain.pdb"
     },
     {
       "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.8.pe4u9lnayb.js",
@@ -4318,6 +4318,23 @@
       "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.dll"
     },
     {
+      "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\b1qvkNWZ.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Domain.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.dll"
+    },
+    {
       "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\B6Fo6xUD.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5066,23 +5083,6 @@
       "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.8.pe4u9lnayb.js"
     },
     {
-      "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\HHylBa6P.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Domain.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb"
-    },
-    {
       "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\hKpRr5lS.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5797,23 +5797,6 @@
       "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll"
     },
     {
-      "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\o+OdOh4q.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Domain.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.dll"
-    },
-    {
       "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\o7YnGMY9.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -6033,6 +6016,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlSerializer.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\qK68RH7m.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Domain.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb"
     },
     {
       "Identity": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\qmFKNyeV.gz",

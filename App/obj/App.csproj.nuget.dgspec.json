@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj": {}
+    "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj": {
+    "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
+        "projectUniqueName": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
+        "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj",
         "packagesPath": "C:\\Users\\Silin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\obj\\",
+        "outputPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Silin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
+              "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
+    "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Silin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Silin\\AppData\\Roaming\\NuGet\\NuGet.Config"

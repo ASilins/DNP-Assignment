@@ -1,0 +1,38 @@
+@page "/viewpost"
+@using Domain.Models
+@using Microsoft.AspNetCore.WebUtilities
+@inject NavigationManager navManager;
+
+@if (post == null)
+{
+}
+else
+{
+    <h1>@post.Title</h1>
+    <p>@post.Owner.UserName</p>
+    <p>@post.Body</p>
+}
+
+@code {
+    private Post? post;
+
+    protected override void OnInitialized()
+    {
+        var uri = navManager.ToAbsoluteUri(navManager.Uri);
+        if (QueryHelpers.ParseQuery(uri.Query).TryGetValue("p", out var _id))
+        {
+            // Get post with id
+        }
+        else
+        {
+            // Temp
+
+            post = new Post(new User()
+            {
+                UserName = "TestUser"
+            }, "Test", "Test body");
+        }
+
+
+    }
+}

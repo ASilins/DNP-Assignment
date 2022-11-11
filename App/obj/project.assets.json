@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
+            "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
             }
           }
         }

@@ -42,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Silin/Documents/Developer/School/C\#/DNP-Assignment/BlazorWASM/Pages/ViewPost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Bvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Silin/Documents/Developer/School/C\#/DNP-Assignment/BlazorWASM/Pages/ViewPosts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Bvc3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Silin/Documents/Developer/School/C\#/DNP-Assignment/BlazorWASM/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

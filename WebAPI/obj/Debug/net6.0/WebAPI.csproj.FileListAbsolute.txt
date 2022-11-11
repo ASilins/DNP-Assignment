@@ -31,4 +31,3 @@ C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\WebAPI\obj\Debug\net
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\WebAPI\obj\Debug\net6.0\WebAPI.pdb
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
-C:\Users\Silin\Documents\Developer\School\C#\DNP-Assignment\WebAPI\bin\Debug\net6.0\data.json

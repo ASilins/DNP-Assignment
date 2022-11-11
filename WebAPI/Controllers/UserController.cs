@@ -32,8 +32,9 @@ public class UserController : ControllerBase
         }
     }
 
-    [HttpGet]
-    public async Task<ActionResult<User>> Login([FromBody] UserDto dto)
+    [HttpPost]
+    [Route("/login")]
+    public async Task<ActionResult<User>> Login(UserDto dto)
     {
         try
         {

@@ -10,7 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba613d7-8e89-4318-b3dd-bd57351ab59a" name="Changes" comment="finished logic for ViewPost.razor and other related changes" />
+    <list default="true" id="4ba613d7-8e89-4318-b3dd-bd57351ab59a" name="Changes" comment="view post logic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668162977154</updated>
-      <workItem from="1668162990566" duration="19290000" />
+      <workItem from="1668162990566" duration="20017000" />
     </task>
     <task id="LOCAL-00001" summary="finished logic for ViewPost.razor and other related changes">
       <created>1668220391681</created>
@@ -123,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668220391681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="view post logic">
+      <created>1668221073880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668221073880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +153,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="finished logic for ViewPost.razor and other related changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished logic for ViewPost.razor and other related changes" />
+    <MESSAGE value="view post logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="view post logic" />
   </component>
 </project>

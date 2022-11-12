@@ -3,6 +3,10 @@
     {
       "UserName": "test",
       "Password": "test"
+    },
+    {
+      "UserName": "caramel",
+      "Password": "password"
     }
   ],
   "Posts": [
@@ -23,6 +27,33 @@
       },
       "Title": "NewPost",
       "Body": "This is a new post"
+    },
+    {
+      "Id": 3,
+      "Owner": {
+        "UserName": "test",
+        "Password": "test"
+      },
+      "Title": "NewerPost",
+      "Body": "The newerer post from the other"
+    },
+    {
+      "Id": 4,
+      "Owner": {
+        "UserName": "caramel",
+        "Password": "password"
+      },
+      "Title": "Hello",
+      "Body": "Hello World!"
+    },
+    {
+      "Id": 5,
+      "Owner": {
+        "UserName": "caramel",
+        "Password": "password"
+      },
+      "Title": "Hi",
+      "Body": "Hello"
     }
   ]
 }

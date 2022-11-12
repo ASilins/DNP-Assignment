@@ -1,10 +1,17 @@
 @page "/viewpost"
 @using Domain.Models
+@using HttpClients.ClientInterfaces
 @using Microsoft.AspNetCore.WebUtilities
 @inject NavigationManager navManager;
+@inject IPostService postService;
+
 
 @if (post == null)
 {
+    <h1>Please load the post using the load button below</h1>
+    <div>
+        <button @onclick="OnInitialized">Load</button>
+    </div>
 }
 else
 {
@@ -14,25 +21,50 @@ else
 }
 
 @code {
+    private IEnumerable<Post>? posts;
     private Post? post;
+    private string msg = "";
+    private int id;
+    
+    
 
-    protected override void OnInitialized()
+    protected override async void OnInitialized()
     {
         var uri = navManager.ToAbsoluteUri(navManager.Uri);
         if (QueryHelpers.ParseQuery(uri.Query).TryGetValue("p", out var _id))
         {
             // Get post with id
+            
+            try
+            {
+                bool success = int.TryParse(_id.ToString(), out id);
+                if (success)
+                {
+                    posts =  await postService.GetAsync(null, null, id);
+                }
+
+                foreach (var item in posts)
+                {
+                    if (item.Id == id)
+                    {
+                        post = item;
+                    }
+                }
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                msg = e.Message;
+            }
+
         }
         else
         {
-            // Temp
-
             post = new Post(new User()
             {
-                UserName = "TestUser"
-            }, "Test", "Test body");
+                UserName = "Unknown"
+            }, "Error", "An error has occurred");
         }
-
-
     }
 }

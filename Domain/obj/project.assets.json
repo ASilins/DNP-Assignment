@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
+      "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Silin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\obj\\",
+      "outputPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silin\\AppData\\Roaming\\NuGet\\NuGet.Config"

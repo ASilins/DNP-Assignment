@@ -239,35 +239,35 @@
         }
       },
       {
-        "HashCode": -903311053,
+        "HashCode": -1790218276,
         "Kind": "Components.Component",
-        "Name": "BlazorWASM.App",
+        "Name": "BlazorWASM.Shared.PostComponent",
         "AssemblyName": "BlazorWASM",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "PostComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.App"
+          "Common.TypeName": "BlazorWASM.Shared.PostComponent"
         }
       },
       {
-        "HashCode": 155822283,
+        "HashCode": -678611784,
         "Kind": "Components.Component",
-        "Name": "BlazorWASM.App",
+        "Name": "BlazorWASM.Shared.PostComponent",
         "AssemblyName": "BlazorWASM",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWASM.App"
+            "TagName": "BlazorWASM.Shared.PostComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWASM.App",
+          "Common.TypeName": "BlazorWASM.Shared.PostComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -450,6 +450,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorWASM.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -903311053,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.App",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.App"
+        }
+      },
+      {
+        "HashCode": 155822283,
+        "Kind": "Components.Component",
+        "Name": "BlazorWASM.App",
+        "AssemblyName": "BlazorWASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWASM.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWASM.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14557,6 +14590,11 @@
     {
       "FilePath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\Pages\\Logout.razor",
       "TargetPath": "Pages\\Logout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\Shared\\PostComponent.razor",
+      "TargetPath": "Shared\\PostComponent.razor",
       "FileKind": "component"
     },
     {

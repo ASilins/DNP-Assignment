@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Bvc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/Silin/Documents/Developer/School/C\#/DNP-Assignment/BlazorWASM/Shared/PostComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBvc3RDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/Silin/Documents/Developer/School/C\#/DNP-Assignment/BlazorWASM/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

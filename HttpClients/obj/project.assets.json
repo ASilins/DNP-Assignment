@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj",
+      "projectUniqueName": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj",
       "projectName": "HttpClients",
-      "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj",
+      "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj",
       "packagesPath": "C:\\Users\\Silin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\obj\\",
+      "outputPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
+            "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
             }
           }
         }

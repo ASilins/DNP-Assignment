@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDwBfVyMqBM+Bt7kq6eXHGdyNm8rLcVb52ec22BeP6mrxIY1wCaSLl0xNDOSSwv3ZyG97HMDRrmFuaWyAgDuOQ==",
+  "dgSpecHash": "xE33Kb5DYmfGfmwSZZRh/Np7hYVbEnysRkdUKzCglzkI/c5tH7U6ywarkrUa5VbINXIL1gcZsPjqCCG+ZIQSQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\BlazorWASM.csproj",
+  "projectFilePath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\BlazorWASM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Silin\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\Silin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\microsoft.aspnetcore.authorization.6.0.8.nupkg.sha512",

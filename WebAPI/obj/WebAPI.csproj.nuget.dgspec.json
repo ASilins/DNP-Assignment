@@ -114,6 +114,80 @@
         }
       }
     },
+    "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\EfcDataAccess\\EfcDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\EfcDataAccess\\EfcDataAccess.csproj",
+        "projectName": "EfcDataAccess",
+        "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\EfcDataAccess\\EfcDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Silin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\EfcDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Silin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj": {
+                "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\App\\App.csproj"
+              },
+              "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\FileData\\FileData.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -201,6 +275,9 @@
               },
               "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\EfcDataAccess\\EfcDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\EfcDataAccess\\EfcDataAccess.csproj"
               },
               "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\FileData\\FileData.csproj": {
                 "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\FileData\\FileData.csproj"

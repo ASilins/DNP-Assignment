@@ -23,6 +23,15 @@
       },
       "Title": "NewPost",
       "Body": "This is a new post"
+    },
+    {
+      "Id": 3,
+      "Owner": {
+        "UserName": "test",
+        "Password": "test"
+      },
+      "Title": "NewerPost",
+      "Body": "The newerer post from the other"
     }
   ]
 }

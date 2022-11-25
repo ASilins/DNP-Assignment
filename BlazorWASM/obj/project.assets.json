@@ -2055,11 +2055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\BlazorWASM.csproj",
+      "projectUniqueName": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\BlazorWASM.csproj",
       "projectName": "BlazorWASM",
-      "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\BlazorWASM.csproj",
+      "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\BlazorWASM.csproj",
       "packagesPath": "C:\\Users\\Silin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\",
+      "outputPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\BlazorWASM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2074,8 +2074,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj": {
-              "projectPath": "C:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj"
+            "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj": {
+              "projectPath": "c:\\Users\\Silin\\Documents\\Developer\\School\\C#\\DNP-Assignment\\HttpClients\\HttpClients.csproj"
             }
           }
         }
